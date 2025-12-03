@@ -6,5 +6,6 @@ public class Main {
 
     public static void mostrarSaludo(String nombre) {
         System.out.println("¡Hola, " + nombre + "! Bienvenido al proyecto.");
+        System.out.println("Hola John");
     }
 }
